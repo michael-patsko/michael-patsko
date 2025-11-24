@@ -1,5 +1,19 @@
-## Hi there 👋
+# Michael Patsko
 
+Hi, I’m Michael!
+
+<!-- GitHub stats -->
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michael-patsko&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael-patsko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### ⚙️ Tools I use
+
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+<img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 <!--
 **michael-patsko/michael-patsko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
