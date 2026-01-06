@@ -1,13 +1,5 @@
 # Michael Patsko
 
-Hi, I’m Michael!
-
-<!-- GitHub stats -->
-[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michael-patsko&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael-patsko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### ⚙️ Tools I use
 
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" />
